@@ -4,13 +4,13 @@
 
 
 ## Github Stats
-[![yixihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yixihan&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![yixihan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yixihan&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
 ## Top Languages
-[![yixihan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yixihan&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![yixihan's Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yixihan&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
